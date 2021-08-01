@@ -2,9 +2,15 @@
 
 
 
+* ###  ML 수업
+
+
+
+
+
 - ###  ML 과제
 
-| 링크                                      | 데이터                                                       | 세부 내용                                             |
+| 파일 링크                                 | 데이터                                                       | 세부 내용                                             |
 | ----------------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------- |
 | [1일차_과제](./homework/1일차_과제.ipynb) | [electric.csv](./homework/data/electric.csv)                 | Linear Regression                                     |
 | [2일차_과제](./homework/2일차_과제.ipynb) | [trees.csv](./homework/data/trees.csv)                       | 상관관계, 다중공선성                                  |
@@ -15,4 +21,14 @@
 | [7일차_과제](./homework/7일차_과제.ipynb) | seaborn titanic                                              | Voting, Bagging, Boosting, MLPRegressor               |
 |                                           |                                                              |                                                       |
 |                                           |                                                              |                                                       |
+
+
+
+* ### DACON
+
+| 파일 링크                                                    | 세부 내용                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [01-Data-Preprocessing.ipynb](./dacon/01-Data-Preprocessing.ipynb) | Log Transformation, Box-Cox, Yeo-Johnson, Quantile Transformation, Iterative Impute |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
