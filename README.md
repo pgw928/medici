@@ -29,6 +29,6 @@
 | 파일 링크                                                    | 세부 내용                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [01-Data-Preprocessing.ipynb](./dacon/01-Data-Preprocessing.ipynb) | Log Transformation, Box-Cox, Yeo-Johnson, Quantile Transformation, Iterative Impute |
-|                                                              |                                                              |
+| [02-Machine Learning & Data Science.ipynb](./02-Machine Learning & Data Science.ipynb) | Metric, KFold, Stratified K-Fold, Feature Engineering        |
 |                                                              |                                                              |
 
