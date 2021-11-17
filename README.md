@@ -32,3 +32,4 @@
 | [02-Machine Learning & Data Science](./dacon/02-Machine_Learning&Data_Science.ipynb) | Metric, KFold, Stratified K-Fold, Feature Engineering        |
 |                                                              |                                                              |
 
+[https://docs.google.com/presentation/d/1f9dyb1EPkxgAw0OtaW-UD9ICdfIz-Pb-YiJzAh83z38/edit#slide=id.g1022e0b0d9d_5_495](https://docs.google.com/presentation/d/1f9dyb1EPkxgAw0OtaW-UD9ICdfIz-Pb-YiJzAh83z38/edit#slide=id.g1022e0b0d9d_5_495)
